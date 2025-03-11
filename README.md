@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=artnharsh&label=Profile%20views&color=0e75b6&style=flat" alt="artnharsh" /> </p>
 
-- 🌱 I’m currently learning **Data Structures & Algorithm in C++**
+- 🌱 **Proficient in Data Structures & Algorithm in C++**
 
 - 📫 How to reach me **artnharsh@gmail.com**
 
