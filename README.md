@@ -3,10 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Harshal%20Patil&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<h2 align="center">Frontend Developer • UI Enthusiast • Problem Solver</h2>
+<h2 align="center">FullStack Developer • Problem Solver</h2>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=22C3E6&center=true&vCenter=true&width=650&lines=Frontend+Developer;DSA+in+C%2B%2B;Building+Beautiful+Web+Interfaces;Always+Learning+New+Tech;Turning+Ideas+Into+Code"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=22C3E6&center=true&vCenter=true&width=650&lines=FullStack+Developer;DSA+in+C%2B%2B;Building+Beautiful+Web+Interfaces;Always+Learning+New+Tech;Turning+Ideas+Into+Code"/>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 
 # 👨‍💻 About Me
 
-✨ Passionate **Frontend Developer from India**  
+✨ Passionate **FullStack Developer from India**  
 🚀 Currently mastering **Data Structures & Algorithms in C++**  
 🎨 Love designing **clean & aesthetic interfaces**  
 📚 Constantly learning **modern web technologies**  
